@@ -1,1 +1,2 @@
 # Encrpteor
+Hi, this is a encrption currently, I am working on it. Thats a encrptero for your study material. if any chaneg you died and you dont want to show your studey material any one you can use this ther are many software for this ( specially bitlocker) but thers are some problem with them they can guess your password or crack it. but in this program we have extra layer like if you died and someone try to unlock your file they only have 3 chance if they exced all the data on this this drive will be lost "permanently".  
